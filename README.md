@@ -6,7 +6,7 @@ PyDesk is a desktop based python visualizer. With PyDesk teachers and students c
 PyDesk Build on Microsoft .NET Framework 4.5 that is preinstalled in WIndows 8 is also available.
 
 
-### PyDesk Visualizer:
+### PyDesk Visualizer Download Links:
 
 https://sites.google.com/site/pydeskviz/
 
